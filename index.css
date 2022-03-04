@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box ;
+}
+
+#icon{
+	height: 70px;
+	width: 70px;
+}
+
+.navbar{
+	background-color: #495371;
+}
+
+.title{
+	color: #F1E0AC;
+}
+
+.bt-1{
+	background-color: #98B4AA;
+}
+
+.card{
+	background-color: #F1E0AC;
+}
+
+#homepage{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	background-color: #74959A;
+}
+
+#contact-icon{
+	height: 40px;
+	width: 40px;
+	padding: 5px;
+}
+
+body{
+	font-family: 'Exo 2', sans-serif;
+	background-color: #74959A;
+}
+
+.footer{
+	background-color: #495371;
+
+}
